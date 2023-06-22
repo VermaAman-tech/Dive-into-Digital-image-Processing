@@ -1,0 +1,5 @@
+a) Consider the observed set of points of the form (x,y) € R? in the file
+points2D_Set1.mat. Show a scatter plot of the points. Overlay on the scat-
+
+ter plot, the graph of a line showing the linear relationship between Y
+and X.
