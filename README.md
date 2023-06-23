@@ -15,20 +15,10 @@ Dive into Digital Image Processing
 ### Contents
 | Week   | Work |
 | ----------- | ----------- |
-| Week 1  |  Basics of image processing|Concept of Pixel
-                                         Concept of Bits Per Pixel
-Types of Images
-Grayscale to RGB Conversion
-Histograms Introduction
-Brightness and Contrast
-Histogram Sliding
-Histogram stretching
-Introduction to Probability
-Gray Level Transformation|
-
-| Week 2  | Ready for diving ? Lessgo! 😀|
-| Week 3  | Let’s go more in depth! Lessgo! 😀|
-| week 4  | Let’s do some practical work in depth! Lessgo! 😀 |
+| Week 1  |  Basics of image processing|
+| Week 2  | Concept of Convolution,Concept of Mask,Concept of Blurring,Sobel Operator|
+| Week 3  | PCA and MNIST dataset|
+| week 4  | Coding Part |
 
 ### Submissions
 1. **Assignment 1** 
