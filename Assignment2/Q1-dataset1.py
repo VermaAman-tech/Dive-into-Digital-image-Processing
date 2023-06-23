@@ -36,9 +36,6 @@ principal_component2 = sorted_eigenvectors[:, 1]
 principal_component
 principal_component2
 X_centered.shape
-import numpy as np
-import matplotlib.pyplot as plt
-
 # Define the point
 point = np.array([np.mean(X), np.mean(Y)])
 
