@@ -16,7 +16,7 @@ Dive into Digital Image Processing
 | Week   | Work |
 | ----------- | ----------- |
 | Week 1  |  Basics of image processing|Concept of Pixel
-Concept of Bits Per Pixel
+                                         Concept of Bits Per Pixel
 Types of Images
 Grayscale to RGB Conversion
 Histograms Introduction
