@@ -62,7 +62,7 @@ def analysis(digit):
 
     axes[0].imshow(np.real(np.reshape(reconstructed_image, (28, 28))), cmap='gray')
     axes[0].axis('off')
-    axes[0].set_title('Reconstructed Image')
+    axes[0].set_title('Reconstructed Image-1')
     
     
     # Display mean image in the center
@@ -72,11 +72,11 @@ def analysis(digit):
 
     # Reconstruct image using principal eigenvalue and eigenvector
     image = digit_images[0]
-    reconstructed_image = mean - np.sqrt(principal_eigenvalue) * principal_mode
+    reconstructed_image2 = mean + np.sqrt(principal_eigenvalue) * principal_mode
 
-    axes[2].imshow(np.real(np.reshape(reconstructed_image, (28, 28))), cmap='gray')
+    axes[2].imshow(np.real(np.reshape(reconstructed_image2, (28, 28))), cmap='gray')
     axes[2].axis('off')
-    axes[2].set_title('Reconstructed Image')
+    axes[2].set_title('Reconstructed Image-2')
 
     plt.show()
 
