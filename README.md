@@ -1,25 +1,36 @@
+Dive into Digital Image Processing
 
 
-# EconML
+# Dive into Digital Image Processing
+
 
 ### Mentor
-| Name  | Roll number |
-| ----------- | ----------- |
-| Tejas Pagare | 190070067 |
-| Param Rathour | 190070049 |
-
+| Name  | 
+| ----------- | 
+| Vipul Patil | 
+| Hari Prakash Reddy|
 ### Resources used
-[Resources](https://docs.google.com/document/d/1R0KfL6oBekUOqOxEWUxUip8srkx5_6J5n5zCtaHjadE/edit?usp=sharing)
+[Resources]((https://docs.google.com/document/d/13G7C5Ij-ydmgsUZ4SndDVvtHXZmr-tc5dcs3NWqZ1qQ/edit))
 
 ### Contents
 | Week   | Work |
 | ----------- | ----------- |
-| Week 1  | [Evolution of Trust](https://ncase.me/trust/), brushing up python coding skills and<br/> revisiting the probability |
-| Week 2  | Introduction to the bandits , different types of bandits|
-| Week 3  | Study of types of bandits, presenting contextual bandits|
-| week 4  | Creating bandit instance for adversarial and linear bandits,<br/> implementing EXP3-IX and LinUCB algorithm |
+| Week 1  |  Basics of image processing|Concept of Pixel
+Concept of Bits Per Pixel
+Types of Images
+Grayscale to RGB Conversion
+Histograms Introduction
+Brightness and Contrast
+Histogram Sliding
+Histogram stretching
+Introduction to Probability
+Gray Level Transformation|
+
+| Week 2  | Ready for diving ? Lessgo! 😀|
+| Week 3  | Let’s go more in depth! Lessgo! 😀|
+| week 4  | Let’s do some practical work in depth! Lessgo! 😀 |
 
 ### Submissions
-1. **Presentation on Contextual bandits** : Refer slides `SOC-presentation.pdf`
-2. **Assignment 1** : Refer [Assignment-1](https://github.com/Vipul1510/EconML/tree/main/Assignment1)
+1. **Assignment 1** 
+2. **Assignment 2** 
 
