@@ -34,7 +34,7 @@ principal_component = sorted_eigenvectors[:, 0]
 principal_component2 = sorted_eigenvectors[:, 1]
 #principal_component
 principal_component
-principal_component2
+
 X_centered.shape
 # Define the point
 point = np.array([np.mean(X), np.mean(Y)])
@@ -43,11 +43,7 @@ line_point = point - principal_component
 plt.plot([point[0], line_point[0]], [point[1], line_point[1]], 'r-', label='Line PCA(useful)')
 line_point = point + principal_component
 plt.plot([point[0], line_point[0]], [point[1], line_point[1]], 'r-')
-line_point = point - principal_component2
-#To get my second line which is pc2 as mentioned in video
-plt.plot([point[0], line_point[0]], [point[1], line_point[1]], 'r-', label='Line 2')
-line_point = point + principal_component2
-plt.plot([point[0], line_point[0]], [point[1], line_point[1]], 'r-')
+
 plt.plot(point[0], point[1], 'bo', label='X_Mean,Y_Mean')
 plt.xlabel('x')
 plt.ylabel('y')
