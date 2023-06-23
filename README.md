@@ -1,6 +1,25 @@
-# Dive-into-Digital-image-Processing
-It is the repo containing codes of Assignment of the Summer of Code project 
-I followed the weekly targets the checkpoints provided by my mentor and completed the assigment 1 as well 
-I have all uploaded the images i got after assignment 1 lines of codes after i provided the images  given I am looking forward to learn more of this.
 
+
+# EconML
+
+### Mentor
+| Name  | Roll number |
+| ----------- | ----------- |
+| Tejas Pagare | 190070067 |
+| Param Rathour | 190070049 |
+
+### Resources used
+[Resources](https://docs.google.com/document/d/1R0KfL6oBekUOqOxEWUxUip8srkx5_6J5n5zCtaHjadE/edit?usp=sharing)
+
+### Contents
+| Week   | Work |
+| ----------- | ----------- |
+| Week 1  | [Evolution of Trust](https://ncase.me/trust/), brushing up python coding skills and<br/> revisiting the probability |
+| Week 2  | Introduction to the bandits , different types of bandits|
+| Week 3  | Study of types of bandits, presenting contextual bandits|
+| week 4  | Creating bandit instance for adversarial and linear bandits,<br/> implementing EXP3-IX and LinUCB algorithm |
+
+### Submissions
+1. **Presentation on Contextual bandits** : Refer slides `SOC-presentation.pdf`
+2. **Assignment 1** : Refer [Assignment-1](https://github.com/Vipul1510/EconML/tree/main/Assignment1)
 
