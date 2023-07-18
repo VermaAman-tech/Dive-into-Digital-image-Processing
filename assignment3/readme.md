@@ -9,9 +9,8 @@ t1      = 0.04
 t2      = 0.14
 
 
-For input_1 As it is has lot of minute details but keeping the sigma too low can make it clumsy so I choose a slight big sigma to make the building's line more clear
-and the unwanted details should be removed.
-sigma   = 0.75
+For input_1 As it is has lot of minute details but keeping the sigma too low can make it clumsy so I choose an appropriate but low.
+sigma   = 0.50
 t1      = 0.04
 t2      = 0.16
 
