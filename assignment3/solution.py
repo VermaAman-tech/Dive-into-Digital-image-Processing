@@ -1,7 +1,7 @@
 import numpy as np
 import cv2 
 
-img = cv2.imread("a.jpg")
+img = cv2.imread("input_0/input_0.jpeg")
 sigma   = 0.7
 t1      = 0.05
 t2      = 0.15
